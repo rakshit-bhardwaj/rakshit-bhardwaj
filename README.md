@@ -17,7 +17,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshit-bhardwaj&show_icons=true&locale=en&layout=compact" alt="rakshit-bhardwaj" /></p
  <div style="height:"100px"><div/>
+ <br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakshit-bhardwaj&show_icons=true&locale=en" alt="rakshit-bhardwaj" /></p>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakshit-bhardwaj&" alt="rakshit-bhardwaj" /></p>
