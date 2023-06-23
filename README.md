@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakshit</h1>
-<h3 align="center">A 3rd year Computer Science student at TIET, Patiala. I am passionate about learning exciting new technologies and love creating art in illustrator.</h3>
+<h3 align="center">A 4th year Computer Science student at TIET, Patiala. I am passionate about learning exciting new technologies and love creating art in illustrator.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
